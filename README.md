@@ -70,7 +70,7 @@ The application includes utility functions for date comparison and formatting.
 * Font Awesome: Provides icons for various elements.
 
 ### Contributing 🤝
-Contributions are welcome! Please follow the Contribution Guidelines.
+Contributions are welcome! Please follow the [Contribution Guidelines](#contribution-guidelines).
 
 ### License 📄
-This project is licensed under the MIT License.
+This project is licensed under the [MIT License](LICENSE).
